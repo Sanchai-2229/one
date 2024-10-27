@@ -16,7 +16,7 @@
 	 <h1 style="color: Green; font-size: 40px;" align="center">to check in the git repo before build now</h1>
       <h1 style="color: Green; font-size: 40px;" align="center">Welcome to 1st application deployment in tomcat server</h1>
      <h1 style="color: Green; font-size: 40px;" align="center">Welcome to 2nd application deployment testing in tomcat server</h1>
-<h1 style="color: Green; font-size: 40px;" align="center">Welcome to 2nd application deployment testing in tomcat server -- Hello boss</h1>
+<h1 style="color: Green; font-size: 40px;" align="center">Welcome to 2nd application deployment testing in tomcat Hello server -- Hello boss</h1>
 	
 	
 	
